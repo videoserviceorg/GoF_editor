@@ -1,0 +1,11 @@
+# Build output
+build/
+out/
+.vs/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+test_core
+CMakeSettings.json
